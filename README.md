@@ -1,6 +1,7 @@
  <img src="https://mytechdecisions.com/wp-content/uploads/2019/10/AdobeStock_256229414.jpg" alt="shahin alam" />
  
-Hi, 👋 My name is Shahin Alam. I am a student and I am learning Web Design & Development. I love learning something new all the time.
+Hi, 👋 My name is Shahin Alam. I am a student and I am learning Web Design & Development.  
+I love learning something new all the time.
 
 Skills: HTML5 / CSS3 / SCSS /  BOOTSTRAP5 / JAVASCRIPT / REACT/  JQUERY / GIT & GITHIM / 
  
